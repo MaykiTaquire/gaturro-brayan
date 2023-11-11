@@ -1,2 +1,1 @@
-# gaturro-brayan
-Este es un repositorio de prueba3
+este proyecto es de prueba 
